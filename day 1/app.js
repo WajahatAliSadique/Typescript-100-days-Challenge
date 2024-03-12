@@ -1,3 +1,4 @@
+"use strict";
 //🚀 Day 1 Challenge: Start Coding! 🚀
 // Question 1
 // Install Node.js, TypeScript and VS code.

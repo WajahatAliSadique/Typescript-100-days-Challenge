@@ -1,3 +1,4 @@
+"use strict";
 //🚀 Day 9 Challenge: Start Coding! 🚀
 //Question 1
 let alionColor = "blue";

@@ -1,3 +1,4 @@
+"use strict";
 //🚀 Day 2 Challenge: Start Coding! 🚀
 // Question 1
 console.log(`Brendan Eich once said, "Great ideas can come from anywhere and anyone,"`);

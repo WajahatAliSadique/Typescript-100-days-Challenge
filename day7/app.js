@@ -1,3 +1,4 @@
+"use strict";
 //🚀 Day 7 Challenge: Start Coding! 🚀
 //Question 1
 console.log(`I have invited ${inivitedPerson.length} to the Dinner`);

@@ -1,3 +1,4 @@
+"use strict";
 //🚀 Day 6 Challenge: Start Coding! 🚀
 //Question 1
 inivitedPerson = ["Wajahat Ali", "Ahmed", "Usman Ali", "Anus"];

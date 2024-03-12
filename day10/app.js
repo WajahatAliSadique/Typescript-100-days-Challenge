@@ -1,3 +1,4 @@
+"use strict";
 //🚀 Day 10 Challenge: Start Coding! 🚀
 //Question 1
 let personStageName = "wajahat";

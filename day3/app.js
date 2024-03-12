@@ -1,3 +1,4 @@
+"use strict";
 //🚀 Day 3 Challenge: Start Coding! 🚀
 // Question 1
 //Addition
