@@ -1,3 +1,4 @@
+"use strict";
 //🚀Day 12 Challenge: Start Coding!🚀
 //Question 1
 let pizza = ["Pepperoni", "Hawaiian", "Neapolitan"];
